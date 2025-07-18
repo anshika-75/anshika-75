@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Anshika Gupta</h1>
-<h3 align="center">B.Tech CSE Student | Full-Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika-75&label=Profile%20views&color=0e75b6&style=flat" alt="anshika-75" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Redix Node.js**
 
-- 💬 Ask me about **MERN , JS , DSA , C++ , Machine Leaning < core subjects**
+- 💬 Ask me about **MERN , JS , DSA , C++ , Redis , RabbitMQ , System Design < core subjects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
